@@ -3,3 +3,6 @@ print(myList)
 
 newlist = ["Joy", "Jane", "Cheryl"]
 print(newlist)
+
+thislist =["books","pens","rubbers"]
+print(thislist)
